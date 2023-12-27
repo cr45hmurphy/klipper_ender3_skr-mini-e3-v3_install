@@ -117,13 +117,15 @@ A few notes:
       | FAN1 | Hot end cooling | PC7 |
       | FAN2 | Electronics enclosure cooling | PB15 |
 
-3. The hotend does NOT have polarity. You can place the wires in either terminal slot. It is merely a controlled short.
+   Wiring diagram for reference: [SKR Mini e3 V3.0 Wiring Diagram](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf)
+
+4. The hotend does NOT have polarity. You can place the wires in either terminal slot. It is merely a controlled short.
     * [Reference 1](https://www.reddit.com/r/ender3/comments/lx5azz/do_the_hotend_cables_have_polarity_ehy_are_they/)
     * [Reference 2](https://www.reddit.com/r/ender3/comments/bwvdn0/replacing_hot_end_wiring_confusion/)
 
-4. Once you flash Klipper, the Ender 3's LCD screen will go blank. This will be corrected once the printer.cfg file is created.
+5. Once you flash Klipper, the Ender 3's LCD screen will go blank. This will be corrected once the printer.cfg file is created.
 
-5. I do NOT recommend using YouMakeTech's printer.cfg file to begin with. It is customized for using a BMG extruder, as well as a BL Touch. Rather, utilize the [printer.cfg](https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/blob/0d290d527142f9daa1aa6f37e96509ac6b961585/configs/Ender3v1_SKR-Mini-e3-V3/printer.cfg) I have created instead.
+6. I do NOT recommend using YouMakeTech's printer.cfg file to begin with. It is customized for using a BMG extruder, as well as a BL Touch. Rather, utilize the [printer.cfg](https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/blob/0d290d527142f9daa1aa6f37e96509ac6b961585/configs/Ender3v1_SKR-Mini-e3-V3/printer.cfg) I have created instead.
     * I would recommend using it for reference if you have these installed, or are thinking about adding them to your machine. 
    
 7. I DO recommend using YouMakeTech's [menu.cfg](https://github.com/YouMakeTech/klipper-ender3/blob/8203aa3c9eecd9890e51132bdd0cc69a4b751e18/config/Ender-3%20Pro/SKR-Mini-E3-V3.0/menu.cfg) file. You will simply upload it within Mainsail as a new file. The printer.cfg already uses an "include" statement to reference it.
@@ -177,15 +179,15 @@ Attributions made in-line with any mentioned references.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cr45hmurphy/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/cr45hmurphy/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cr45hmurphy/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/cr45hmurphy/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/cr45hmurphy/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/cr45hmurphy/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cr45hmurphy/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/cr45hmurphy/repo/issues
+[license-shield]: https://img.shields.io/github/license/cr45hmurphy/repo.svg?style=for-the-badge
+[license-url]: https://github.com/cr45hmurphy/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/cr45hmurphy
