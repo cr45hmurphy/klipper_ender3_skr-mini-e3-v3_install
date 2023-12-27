@@ -111,11 +111,11 @@ A few notes:
 1. The hotend heat sink fan will have to have a JST 2-pin connector soldered or crimped onto the leads. With the Creality board, this fan connects directly into a wire terminal, rather than a board connector. However, a JST 2-pin connector is needed to connect it to the SKR board.
 2. The fan connections listed in the above article are incorrect. In fact, this appears to be a typo with the SKR manual ([Reference](https://www.reddit.com/r/ender3/comments/wc09uz/bigtreetech_skr_mini_e3_v30_fan_connections/)). Major thanks to [Sharkpoofie](https://www.reddit.com/user/Sharkpoofie/) for providing the following corrections:
 
-      | Header name |	Function |
-      | ----------- | -------- |
-      | FAN0 | Part cooling |
-      | FAN1 | Hot end cooling |
-      | FAN2 | Electronics enclosure cooling |
+      | Header name |	Function | Pin |
+      | ----------- | -------- | --- |
+      | FAN0 | Part cooling | PC6 |
+      | FAN1 | Hot end cooling | PC7 |
+      | FAN2 | Electronics enclosure cooling | PB15 |
 
 3. The hotend does NOT have polarity. You can place the wires in either terminal slot. It is merely a controlled short.
     * [Reference 1](https://www.reddit.com/r/ender3/comments/lx5azz/do_the_hotend_cables_have_polarity_ehy_are_they/)
@@ -132,6 +132,10 @@ A few notes:
 
 ### Pi Camera and Mainsail OS
 
+This is the best tutorial I have found on this: [Obico - Klipper Webcam Setup using Mainsail](https://www.obico.io/blog/klipper-camera-mainsail/).
+
+Here is a link to my [crowsnest.conf](https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/blob/2801822068c0f1d101cf65081c439dc799d973a2/configs/Ender3v1_SKR-Mini-e3-V3/crowsnest.conf).
+
 ## Odds and Ends
 
 ### Using BTT Pi
@@ -143,10 +147,7 @@ There are a few more steps involved with this process, but overall the install i
 Here are a few more YouTube links that do a great job of explaining how to install Mainsail onto the BTT Pi v1.2:
 
 * [Chris Riley](https://www.youtube.com/watch?v=Df8-7zcwiUc)
-* [Stacking Layers](https://www.youtube.com/watch?v=Df8-7zcwiUc&t=2209s&themeRefresh=1).
-
-
-
+* [Stacking Layers](https://www.youtube.com/watch?v=Df8-7zcwiUc&t=2209s&themeRefresh=1)
 
 
 <!-- CONTRIBUTING -->
@@ -161,7 +162,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -171,11 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
+Attributions made in-line with any mentioned references.
 
 
 
