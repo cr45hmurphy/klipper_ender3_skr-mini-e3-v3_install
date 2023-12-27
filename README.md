@@ -179,15 +179,13 @@ Attributions made in-line with any mentioned references.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/cr45hmurphy/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/cr45hmurphy/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cr45hmurphy/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/cr45hmurphy/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/cr45hmurphy/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/cr45hmurphy/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cr45hmurphy/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/cr45hmurphy/repo/issues
-[license-shield]: https://img.shields.io/github/license/cr45hmurphy/repo.svg?style=for-the-badge
-[license-url]: https://github.com/cr45hmurphy/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/cr45hmurphy
+[contributors-shield]: https://img.shields.io/github/contributors/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install.svg?style=for-the-badge
+[contributors-url]: https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install.svg?style=for-the-badge
+[forks-url]: https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/network/members
+[stars-shield]: https://img.shields.io/github/stars/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install.svg?style=for-the-badge
+[stars-url]: https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install.svg?style=for-the-badge
+[issues-url]: https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/issues
+[license-shield]: https://img.shields.io/github/license/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install.svg?style=for-the-badge
+[license-url]: https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/blob/master/LICENSE.txt
