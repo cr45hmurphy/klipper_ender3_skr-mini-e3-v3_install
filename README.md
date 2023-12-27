@@ -46,7 +46,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#troubleshooting">Troubleshooting></a></li>
+    <li><a href="#troubleshooting"Troubleshooting></a></li>
     <li><a href="#odds-and-ends">Odds and Ends</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
