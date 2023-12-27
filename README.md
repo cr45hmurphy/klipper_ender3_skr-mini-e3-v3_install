@@ -46,8 +46,16 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#troubleshooting"Troubleshooting></a></li>
-    <li><a href="#odds-and-ends">Odds and Ends</a></li>
+    <li><a href="#troubleshooting">Troubleshooting</a>
+      <ul>
+        <li><a href="#pi-camera-and-mainsail-os">Pi Camera and Mainsail OS</a></li>
+      </ul>
+    </li>
+    <li><a href="#odds-and-ends">Odds and Ends</a>
+      <ul>
+        <li><a href="#using-btt-pi">Using BTT Pi</a></li>
+      </ul>
+    </li>    
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -120,6 +128,10 @@ A few notes:
    
 7. I DO recommend using YouMakeTech's [menu.cfg](https://github.com/YouMakeTech/klipper-ender3/blob/8203aa3c9eecd9890e51132bdd0cc69a4b751e18/config/Ender-3%20Pro/SKR-Mini-E3-V3.0/menu.cfg) file. You will simply upload it within Mainsail as a new file. The printer.cfg already uses an "include" statement to reference it.
 
+## Troubleshooting
+
+### Pi Camera and Mainsail OS
+
 ## Odds and Ends
 
 ### Using BTT Pi
@@ -133,7 +145,7 @@ Here are a few more YouTube links that do a great job of explaining how to insta
 * [Chris Riley](https://www.youtube.com/watch?v=Df8-7zcwiUc)
 * [Stacking Layers](https://www.youtube.com/watch?v=Df8-7zcwiUc&t=2209s&themeRefresh=1).
 
-### Pi Camera and Mainsail OS
+
 
 
 
