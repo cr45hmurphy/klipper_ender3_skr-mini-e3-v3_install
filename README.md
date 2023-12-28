@@ -103,7 +103,7 @@ The process I followed was:
 4. Create printer.cfg within Mainsail.
 
 I followed [YouMakeTech's](https://www.youmaketech.com/how-to-install-klipper-on-the-skr-mini-e3-v3/) tutorial for all of these steps. He does a great job of providing wiring diagrams and instructions.
-I also found [MakeNPrint's]{https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-skr-mini-e3-v3-guides/btt-skr-mini-e3-v3-setup-guide/) SKR guide to be extremely helpful. It goes in-depth on the components of the SKR board.
+I also found [MakeNPrint's](https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-skr-mini-e3-v3-guides/btt-skr-mini-e3-v3-setup-guide/) SKR guide to be extremely helpful. It goes in-depth on the components of the SKR board.
 
 A few notes:
 
