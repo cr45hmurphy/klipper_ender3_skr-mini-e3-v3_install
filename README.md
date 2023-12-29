@@ -53,6 +53,12 @@
     <li><a href="#odds-and-ends">Odds and Ends</a>
       <ul>
         <li><a href="#using-btt-pi">Using BTT Pi</a></li>
+        <li><a href="#bed-leveling">Bed Leveling</a>
+          <ul>
+            <li><a href="#no-abl">No ABL</a></li>
+            <li><a href="#abl">ABL</a></li>
+          </ul>
+        </li>
       </ul>
     </li>    
     <li><a href="#contributing">Contributing</a></li>
@@ -150,6 +156,17 @@ Here are a few more YouTube links that do a great job of explaining how to insta
 * [Chris Riley](https://www.youtube.com/watch?v=Df8-7zcwiUc)
 * [Stacking Layers](https://www.youtube.com/watch?v=Df8-7zcwiUc&t=2209s&themeRefresh=1)
 
+### Bed Leveling
+
+I figured I'd put a section for this here, as reference. While the Klipper documentation is great, I found these following vids from [ to be extremely helpful in this process.
+
+#### No ABL
+*[Create a Manual Mesh with Kipper!](https://www.youtube.com/watch?v=yNoPNzFKXvU)
+
+#### ABL
+*[BL Touch complete setup for Klipper! Maximize your probed bed mesh!](https://www.youtube.com/watch?v=5vmjBXvY6BA)
+*[Accurate BL Touch Offsets](https://www.youtube.com/shorts/FKvPU2nwdts)
+*[Let Klipper level your bed with the built-in tool screws_tilt_adjust](https://www.youtube.com/watch?v=APAbl5PGEh0)
 
 <!-- CONTRIBUTING -->
 ## Contributing
