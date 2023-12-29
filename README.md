@@ -161,12 +161,12 @@ Here are a few more YouTube links that do a great job of explaining how to insta
 I figured I'd put a section for this here, as reference. While the Klipper documentation is great, I found these following vids from [ to be extremely helpful in this process.
 
 #### No ABL
-*[Create a Manual Mesh with Kipper!](https://www.youtube.com/watch?v=yNoPNzFKXvU)
+* [Create a Manual Mesh with Kipper!](https://www.youtube.com/watch?v=yNoPNzFKXvU)
 
 #### ABL
-*[BL Touch complete setup for Klipper! Maximize your probed bed mesh!](https://www.youtube.com/watch?v=5vmjBXvY6BA)
-*[Accurate BL Touch Offsets](https://www.youtube.com/shorts/FKvPU2nwdts)
-*[Let Klipper level your bed with the built-in tool screws_tilt_adjust](https://www.youtube.com/watch?v=APAbl5PGEh0)
+* [BL Touch complete setup for Klipper! Maximize your probed bed mesh!](https://www.youtube.com/watch?v=5vmjBXvY6BA)
+* [Accurate BL Touch Offsets](https://www.youtube.com/shorts/FKvPU2nwdts)
+* [Let Klipper level your bed with the built-in tool screws_tilt_adjust](https://www.youtube.com/watch?v=APAbl5PGEh0)
 
 <!-- CONTRIBUTING -->
 ## Contributing
