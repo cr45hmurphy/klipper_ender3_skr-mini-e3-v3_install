@@ -156,7 +156,7 @@ Here are a few more YouTube links that do a great job of explaining how to insta
 
 ### Bed Leveling
 
-I figured I'd put a section for this here, as reference. While the Klipper documentation is great, I found these following vids from [ to be extremely helpful in this process.
+I figured I'd put a section for this here, as reference. While the Klipper documentation is great, I found these following vids from [PrintsLeo3D](https://youtube.com/@PrintsLeo3D?si=2jvJ5K1J9B70pdCD) to be extremely helpful in this process.
 
 #### No ABL
 * [Create a Manual Mesh with Kipper!](https://www.youtube.com/watch?v=yNoPNzFKXvU)
