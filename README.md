@@ -129,7 +129,7 @@ A few notes:
 5. Once you flash Klipper, the Ender 3's LCD screen will go blank. This will be corrected once the printer.cfg file is created.
 
 6. I do NOT recommend using YouMakeTech's printer.cfg file to begin with. It is customized for using a BMG extruder, as well as a BL Touch. Rather, utilize the [printer.cfg](https://github.com/cr45hmurphy/klipper_ender3_skr-mini-e3-v3_install/blob/0d290d527142f9daa1aa6f37e96509ac6b961585/configs/Ender3v1_SKR-Mini-e3-V3/printer.cfg) I have created instead.
-    * I would recommend using it for reference if you have these installed, or are thinking about adding them to your machine. 
+    * I would recommend using his config for reference if you have these installed, or are thinking about adding them to your machine. 
    
 7. I DO recommend using YouMakeTech's [menu.cfg](https://github.com/YouMakeTech/klipper-ender3/blob/8203aa3c9eecd9890e51132bdd0cc69a4b751e18/config/Ender-3%20Pro/SKR-Mini-E3-V3.0/menu.cfg) file. You will simply upload it within Mainsail as a new file. The printer.cfg already uses an "include" statement to reference it.
 
