@@ -97,7 +97,7 @@ Also, I doubt this needs to be said, but I am NOT responsible for any damage tha
 
 *For the sake of this tutorial, I am using an RPi 3+ that I was already using for Octoprint. I was also gifted a BigTreeTech Pi v1.2. However, I chose to stick with the Pi for the time being, since I already have a Pi Camera v2 and a mount for it. I am going to still include references for using the BTT with Klipper on this tutorial.
 
-This tutorial DOES NOT reference any sort of ABL (BL Touch or CR Touch). I do not currently have one installed, though that is next on my list to-do.
+This tutorial DOES NOT reference any sort of ABL (BL Touch or CR Touch). I do not currently have one installed, though that is next on my to-do list.
 
 ### Installation
 
